@@ -12,7 +12,7 @@ For the mailbox, I used the [Patriot Large Plastic Post-Mount Mailbox](https://w
 which has a smaller flag which indicates when the mailbox has opened. I added
 magnets to the inside of this smaller flag and used electrical tape to affix
 the reed switch to the inside of the mailbox. When the small flag passes the
-reed switch, it closes the connection ans causes a reset.
+reed switch, it closes the connection and causes a reset.
 
 One modification I had to make to the esp8266 Thing was to rotate the resistor
 90 degrees as described in [Selecting the Antenna](https://learn.sparkfun.com/tutorials/esp8266-thing-hookup-guide/hardware-overview#selecting-antenna)
